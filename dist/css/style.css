@@ -49,3 +49,8 @@ img {
   padding-top: 0.3rem;
   padding-bottom: 0.3rem;
 }
+
+.navbar .container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
