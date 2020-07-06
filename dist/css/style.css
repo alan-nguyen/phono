@@ -73,3 +73,7 @@ img {
 .navbar .nav a:hover {
   color: #555;
 }
+
+.section-a {
+  margin: 2rem 0;
+}
