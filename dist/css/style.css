@@ -116,6 +116,10 @@ img {
   padding: 5rem 0;
 }
 
+.section-b-inner h3 {
+  font-size: 2rem;
+}
+
 /* Utilities */
 .btn {
   display: inline-block;
