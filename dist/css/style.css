@@ -125,6 +125,11 @@ img {
   margin-top: 1rem;
 }
 
+.section-b-inner p {
+  font-size: 1.5rem;
+  margin-top: 1rem;
+}
+
 /* Utilities */
 .btn {
   display: inline-block;
