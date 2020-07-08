@@ -120,6 +120,11 @@ img {
   font-size: 2rem;
 }
 
+.section-b-inner h2 {
+  font-size: 5rem;
+  margin-top: 1rem;
+}
+
 /* Utilities */
 .btn {
   display: inline-block;
