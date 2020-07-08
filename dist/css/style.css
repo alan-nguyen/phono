@@ -74,6 +74,7 @@ img {
   color: #555;
 }
 
+/* Section A */
 .section-a {
   margin: 2rem 0;
 }
@@ -93,6 +94,13 @@ img {
 
 .section-a p {
   margin: 1rem 0;
+}
+
+/* Section B */
+.section-b {
+  position: relative;
+  background: url('../img/section-b.jpg') no-repeat bottom center/cover;
+  height: 600px;
 }
 
 /* Utilities */
