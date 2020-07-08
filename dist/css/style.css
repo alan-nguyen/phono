@@ -103,6 +103,19 @@ img {
   height: 600px;
 }
 
+.section-b-inner {
+  color: #fff;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: auto;
+  max-width: 860px;
+  padding: 5rem 0;
+}
+
 /* Utilities */
 .btn {
   display: inline-block;
