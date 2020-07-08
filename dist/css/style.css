@@ -145,6 +145,12 @@ img {
   grid-column: 3/5;
 }
 
+.section-c .gallery img,
+.section-c .gallery a {
+  width: 100%;
+  height: 100%;
+}
+
 /* Utilities */
 .btn {
   display: inline-block;
