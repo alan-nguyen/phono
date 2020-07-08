@@ -158,6 +158,12 @@ img {
   padding: 4rem 0;
 }
 
+.section-footer .container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 1rem;
+}
+
 /* Utilities */
 .btn {
   display: inline-block;
