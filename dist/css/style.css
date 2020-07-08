@@ -130,6 +130,12 @@ img {
   margin-top: 1rem;
 }
 
+/* Section C */
+.section-c .gallery {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+
 /* Utilities */
 .btn {
   display: inline-block;
