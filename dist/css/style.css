@@ -151,6 +151,13 @@ img {
   height: 100%;
 }
 
+/* Footer */
+.section-footer {
+  background-color: var(--primary-color);
+  color: #fff;
+  padding: 4rem 0;
+}
+
 /* Utilities */
 .btn {
   display: inline-block;
