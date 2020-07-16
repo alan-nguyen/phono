@@ -164,6 +164,11 @@ img {
   grid-gap: 1rem;
 }
 
+.section-footer h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
 /* Utilities */
 .btn {
   display: inline-block;
