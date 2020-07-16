@@ -173,6 +173,11 @@ img {
   margin-bottom: 0.7rem;
 }
 
+.section-footer a {
+  line-height: 1.9;
+  color: #ccc;
+}
+
 /* Utilities */
 .btn {
   display: inline-block;
