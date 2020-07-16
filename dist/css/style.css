@@ -178,6 +178,11 @@ img {
   color: #ccc;
 }
 
+.section-footer a > i {
+  color: #555;
+  margin-right: 0.5rem;
+}
+
 /* Utilities */
 .btn {
   display: inline-block;
