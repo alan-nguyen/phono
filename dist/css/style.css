@@ -169,6 +169,10 @@ img {
   margin-bottom: 1rem;
 }
 
+.section-footer h3 {
+  margin-bottom: 0.7rem;
+}
+
 /* Utilities */
 .btn {
   display: inline-block;
