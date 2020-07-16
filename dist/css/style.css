@@ -183,6 +183,17 @@ img {
   margin-right: 0.5rem;
 }
 
+/* Email Form */
+.email-form {
+  width: 100%;
+  display: inline-block;
+  background-color: #555;
+  position: relative;
+  border-radius: 20px;
+  line-height: 0;
+  margin-top: 1rem;
+}
+
 /* Utilities */
 .btn {
   display: inline-block;
