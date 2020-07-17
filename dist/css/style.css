@@ -259,4 +259,17 @@ img {
     grid-template-columns: 1fr;
     text-align: center;
   }
+
+  .section-a .container div:first-child {
+    order: 2;
+  }
+
+  .section-a .container div:last-child {
+    order: -1;
+  }
+
+  .section-a img {
+    width: 80%;
+    margin: auto;
+  }
 }
