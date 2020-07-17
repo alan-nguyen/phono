@@ -280,4 +280,9 @@ img {
   .section-c .gallery {
     grid-template-columns: repeat(3, 1fr);
   }
+
+  .section-c .gallery a:first-child {
+    grid-row: 1/1;
+    grid-column: 1/1;
+  }
 }
