@@ -272,4 +272,8 @@ img {
     width: 80%;
     margin: auto;
   }
+
+  .section-b-inner h2 {
+    font-size: 3.5rem;
+  }
 }
